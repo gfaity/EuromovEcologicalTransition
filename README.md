@@ -12,6 +12,7 @@ Les résultats bruts (anonymes) de l'enquête sont disponibles dans le dossier D
 Un exemplaire de l'enquête contenant les questions posées est disponible dans le dossier DOC.
 Le traitement des résultats est disponible dans le dossier RES.
 Le dossier RES contient le code d'analyse brut (.Rmd) et la présentation des résultats sous forme de markdown (.html).
+**Pour voir la présentation des résultats, il faut télécharger le fichier Phase2_survey/RES/20230327_07h14_Phase2ResultsSurvey_apresCreationScenario.html, puis l'ouvrir dans un navigateur web pour afficher correctement le style de texte et les graphiques.**
 
 ### Score d'adhésion
 Les scénarios ont été créés sur la base d'un score d'adhésion à chaque mesure, calculé grâce aux réponses des membres du laboratoire lors de l'enquête. Voici le détail du calcul du score d'adhésion :
